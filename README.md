@@ -23,7 +23,9 @@ This tool reads a CSV file and shows the results in a chart. Abnormal values are
 2. Install required packages  
 3. Run the Python script to generate charts  
 
-![Example Chart](example_chart.png)
+## Example
+![Example Chart](chart.png)
+
 
 
 
