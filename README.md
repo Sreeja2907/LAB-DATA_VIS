@@ -24,7 +24,9 @@ This tool reads a CSV file and shows the results in a chart. Abnormal values are
 3. Run the Python script to generate charts  
 
 ## Example
-*(I will add chart screenshots here after running the code)*  
+![Example Chart](example_chart.png)
+
+
 
 ## License
 MIT
