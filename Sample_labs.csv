@@ -1,0 +1,5 @@
+patient_id,date,test_name,value,unit,ref_low,ref_high
+P001,2025-01-10,Glucose,110,mg/dL,70,100
+P001,2025-02-15,Glucose,95,mg/dL,70,100
+P001,2025-03-20,Glucose,130,mg/dL,70,100
+P001,2025-04-25,Glucose,140,mg/dL,70,100
